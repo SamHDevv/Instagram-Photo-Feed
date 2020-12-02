@@ -1,0 +1,44 @@
+body{
+    margin: 0px;
+    background:#eaeaea;
+}
+header{
+    background: white;
+    padding: 10px;
+}
+header h1{
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+div .principalcontain{
+    width: 600px;
+    margin: auto;
+}
+div .photos{
+    background: white;
+    margin-top: 30px;
+}
+div.photos img{
+    width: 100%;
+}
+div.photos .photosheader div:first-child{
+    display: inline-block;
+    width: 80%;
+}
+div.photos .photosheader div:last-child{
+    display: inline-block;
+    width: 20%;
+    text-align: right;  
+}
+.photosheader span{
+    padding: 15px;
+}
+div.photos h2, div.photos p{
+    padding: 15px;
+    margin: 0;
+}
+
+p{
+    padding: -10px;
+}
